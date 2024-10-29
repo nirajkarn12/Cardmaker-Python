@@ -1,0 +1,20 @@
+navigate your project:
+example :
+C:\Users\niraz\PycharmProjects\birthday_card_maker
+at navbar Type cmd 
+
+After navigating to your project directory and ensuring your virtual
+ environment is active,
+ you can start your Flask application by running:
+
+
+
+python app.py
+
+
+Access the Application:
+
+
+Open your web browser and go to 
+http://127.0.0.1:5000 
+to access the application.
